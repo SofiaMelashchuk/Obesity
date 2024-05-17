@@ -15,7 +15,7 @@ The model is trained on a dataset containing information about individuals' char
 
 ## Installation
 To use this project, follow these steps:
-1. Clone the repository to your local machine: `git clone https://github.com/SofiaMelashchuk/obesity-prediction.git`
+1. Clone the repository to your local machine: `git clone https://github.com/SofiaMelashchuk/Obesity`
 2. Install the required Python packages using pip: `pip install -r requirements.txt`
 
 ## Usage
